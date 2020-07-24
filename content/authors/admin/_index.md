@@ -55,11 +55,11 @@ social:
 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/kuto_bopro
 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kuto5046
 
 - icon: kaggle
   icon_pack: fab
