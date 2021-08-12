@@ -37,7 +37,11 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://kuto5046.github.io/portfolio/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Rainforest Connection Audio Species Detection</title><link>https://kuto5046.github.io/portfolio/project/rainforest/</link><pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/rainforest/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
+&lt;p>熱帯雨林で録音された音声から鳥の鳴き声を分類するコンペ。&lt;/p>
+&lt;h3 id="結果">結果&lt;/h3>
+&lt;p>5th/1143 (Gold Medal)&lt;/p>
+&lt;!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) --></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://kuto5046.github.io/portfolio/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
 &lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
 &lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
@@ -206,11 +210,7 @@ color: navy;
 &lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Example Project</title><link>https://kuto5046.github.io/portfolio/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>An example conference paper</title><link>https://kuto5046.github.io/portfolio/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/publication/example/</guid><description>&lt;div class="alert alert-note">
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>An example conference paper</title><link>https://kuto5046.github.io/portfolio/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/publication/example/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -220,4 +220,52 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://kuto5046.github.io/portfolio/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/admin/config.yml</guid><description/></item></channel></rss>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://kuto5046.github.io/portfolio/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/admin/config.yml</guid><description/></item><item><title>Google Research Football with Manchester City F.C.</title><link>https://kuto5046.github.io/portfolio/project/football/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/football/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
+&lt;p>サッカーエージェントを育てるシミュレーション(強化学習)コンペ&lt;/p>
+&lt;h3 id="結果">結果&lt;/h3>
+&lt;p>59th/1138&lt;/p>
+&lt;!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
+&lt;h3 id="notebook">Notebook&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.kaggle.com/kuto0633/gfootball-rainbow-dqn-pfrl" target="_blank" rel="noopener">GFootball: Rainbow-DQN [PFRL]&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/kuto0633/gfootball-modified-rainbow-dqn-pfrl" target="_blank" rel="noopener">GFootball: Modified-Rainbow-DQN [PFRL]&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/kuto0633/kutopon-s-pretrained-seed-rl-model-with-1625m" target="_blank" rel="noopener">kutopon&amp;rsquo;s pretrained SEED-RL model with 1625M&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="discussion">Discussion&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/187657" target="_blank" rel="noopener">[summary] The paper of Google Research Football&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/191594" target="_blank" rel="noopener">Be careful to set rewards when you create environment&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/190967" target="_blank" rel="noopener">Validation Episode Failed.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/188224" target="_blank" rel="noopener">Is self-play learning(RL) effective approach?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/200595" target="_blank" rel="noopener">Is a submission which during validation episode invalid?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/200945" target="_blank" rel="noopener">SEED RL solution [final score 1170]&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Google Smartphone Decimeter Challenge</title><link>https://kuto5046.github.io/portfolio/project/outdoor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/outdoor/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
+&lt;p>商業施設での屋内歩行者の位置推定コンペ。&lt;/p>
+&lt;h3 id="結果">結果&lt;/h3>
+&lt;p>18th/810 (silver medal)&lt;/p>
+&lt;!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
+&lt;h3 id="notebook">notebook&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.kaggle.com/kuto0633/road-detection-and-creating-grid-points" target="_blank" rel="noopener">Road detection and creating grid points&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/kuto0633/reproducing-baseline-by-estimating-each-isrbm" target="_blank" rel="noopener">Reproducing baseline by estimating each isrbM&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="discussion">Discussion&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-smartphone-decimeter-challenge/discussion/245060" target="_blank" rel="noopener">&amp;ldquo;Snap to Grid&amp;rdquo; is valid for this competition.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-smartphone-decimeter-challenge/discussion/250977" target="_blank" rel="noopener">Public/Private data were sepaleted by collections&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-smartphone-decimeter-challenge/discussion/251998" target="_blank" rel="noopener">Is it okay to apply specific post-processing &amp;ldquo;manually&amp;rdquo; to a specific collection(or area)?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-smartphone-decimeter-challenge/discussion/255536" target="_blank" rel="noopener">How can I Reproduce baseline from derived file?&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Indoor Location &amp; Navigation</title><link>https://kuto5046.github.io/portfolio/project/indoor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/indoor/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
+&lt;p>商業施設での屋内歩行者の位置推定コンペ。&lt;/p>
+&lt;h3 id="結果">結果&lt;/h3>
+&lt;p>16th/1170&lt;/p>
+&lt;!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
+&lt;h3 id="notebook">Notebook&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.kaggle.com/kuto0633/linear-interpolation-for-waypoint-in-wifi-dataset" target="_blank" rel="noopener">Linear interpolation for waypoint in wifi dataset&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="discussion">Discussion&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.kaggle.com/c/indoor-location-navigation/discussion/231007" target="_blank" rel="noopener">Anyone try interpolation for waypoint in wifi dataset?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/indoor-location-navigation/discussion/239909" target="_blank" rel="noopener">16th place solution&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
