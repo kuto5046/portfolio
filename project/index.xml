@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Portfolio</title><link>https://kuto5046.github.io/portfolio/project/</link><atom:link href="https://kuto5046.github.io/portfolio/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate><image><url>https://kuto5046.github.io/portfolio/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://kuto5046.github.io/portfolio/project/</link></image><item><title>Rainforest Connection Audio Species Detection</title><link>https://kuto5046.github.io/portfolio/project/rainforest/</link><pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/rainforest/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Portfolio</title><link>https://kuto5046.github.io/portfolio/project/</link><atom:link href="https://kuto5046.github.io/portfolio/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>kuto</copyright><lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate><image><url>https://kuto5046.github.io/portfolio/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://kuto5046.github.io/portfolio/project/</link></image><item><title>Rainforest Connection Audio Species Detection</title><link>https://kuto5046.github.io/portfolio/project/rainforest/</link><pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/rainforest/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
 &lt;p>熱帯雨林で録音された音声から鳥の鳴き声を分類するコンペ。&lt;/p>
 &lt;h3 id="結果">結果&lt;/h3>
-&lt;p>5th/1143 (Gold Medal)&lt;/p>
+&lt;p>5th/1143 🥇&lt;/p>
 &lt;!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) --></description></item><item><title>Google Research Football with Manchester City F.C.</title><link>https://kuto5046.github.io/portfolio/project/football/</link><pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/football/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
 &lt;p>サッカーエージェントを育てるシミュレーション(強化学習)コンペ&lt;/p>
 &lt;h3 id="結果">結果&lt;/h3>
-&lt;p>59th/1138&lt;/p>
+&lt;p>59th/1138 🥉&lt;/p>
 &lt;!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
 &lt;h3 id="notebook">Notebook&lt;/h3>
 &lt;ul>
@@ -24,7 +24,7 @@
 &lt;/ul></description></item><item><title>Google Smartphone Decimeter Challenge</title><link>https://kuto5046.github.io/portfolio/project/outdoor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/outdoor/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
 &lt;p>商業施設での屋内歩行者の位置推定コンペ。&lt;/p>
 &lt;h3 id="結果">結果&lt;/h3>
-&lt;p>18th/810 (silver medal)&lt;/p>
+&lt;p>18th/810 🥈&lt;/p>
 &lt;!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
 &lt;h3 id="notebook">notebook&lt;/h3>
 &lt;ul>
@@ -40,7 +40,7 @@
 &lt;/ul></description></item><item><title>Indoor Location &amp; Navigation</title><link>https://kuto5046.github.io/portfolio/project/indoor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/indoor/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
 &lt;p>商業施設での屋内歩行者の位置推定コンペ。&lt;/p>
 &lt;h3 id="結果">結果&lt;/h3>
-&lt;p>16th/1170&lt;/p>
+&lt;p>16th/1170 🥈&lt;/p>
 &lt;!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
 &lt;h3 id="notebook">Notebook&lt;/h3>
 &lt;ul>
