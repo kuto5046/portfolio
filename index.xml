@@ -22,11 +22,7 @@
 &lt;/div>
 &lt;/div>
 &lt;h2 id="get-inspired">Get inspired&lt;/h2>
-&lt;p>&lt;a href="https://github.com/wowchemy/starter-academic/tree/master/exampleSite" target="_blank" rel="noopener">Check out the Markdown files&lt;/a> which power the &lt;a href="https://academic-demo.netlify.app" target="_blank" rel="noopener">Academic Demo&lt;/a>, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the showcase&lt;/a>.&lt;/p></description></item><item><title>Accomplish&amp;shy;ments</title><link>https://kuto5046.github.io/portfolio/home-unused/accomplishments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/accomplishments/</guid><description/></item><item><title>Recent Posts</title><link>https://kuto5046.github.io/portfolio/home-unused/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/posts/</guid><description/></item><item><title>Recent &amp; Upcoming Talks</title><link>https://kuto5046.github.io/portfolio/home-unused/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/talks/</guid><description/></item><item><title>Featured Publications</title><link>https://kuto5046.github.io/portfolio/home-unused/featured/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/featured/</guid><description/></item><item><title>Recent Publications</title><link>https://kuto5046.github.io/portfolio/home-unused/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/publications/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Quickly discover relevant content by &lt;a href="./publication/">filtering publications&lt;/a>.
-&lt;/div>
-&lt;/div></description></item><item><title>Popular Topics</title><link>https://kuto5046.github.io/portfolio/home-unused/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/tags/</guid><description/></item><item><title>Contact</title><link>https://kuto5046.github.io/portfolio/home-unused/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/contact/</guid><description/></item><item><title>Example Talk</title><link>https://kuto5046.github.io/portfolio/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+&lt;p>&lt;a href="https://github.com/wowchemy/starter-academic/tree/master/exampleSite" target="_blank" rel="noopener">Check out the Markdown files&lt;/a> which power the &lt;a href="https://academic-demo.netlify.app" target="_blank" rel="noopener">Academic Demo&lt;/a>, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the showcase&lt;/a>.&lt;/p></description></item><item><title>Accomplish&amp;shy;ments</title><link>https://kuto5046.github.io/portfolio/home-unused/accomplishments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/accomplishments/</guid><description/></item><item><title>Recent Posts</title><link>https://kuto5046.github.io/portfolio/home-unused/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/posts/</guid><description/></item><item><title>Recent &amp; Upcoming Talks</title><link>https://kuto5046.github.io/portfolio/home-unused/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/talks/</guid><description/></item><item><title>Featured Publications</title><link>https://kuto5046.github.io/portfolio/home-unused/featured/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/featured/</guid><description/></item><item><title>Popular Topics</title><link>https://kuto5046.github.io/portfolio/home-unused/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/tags/</guid><description/></item><item><title>Contact</title><link>https://kuto5046.github.io/portfolio/home-unused/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/home-unused/contact/</guid><description/></item><item><title>Example Talk</title><link>https://kuto5046.github.io/portfolio/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
@@ -95,7 +91,26 @@ The template is mobile first with a responsive design to ensure that your site l
 &lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
 &lt;h2 id="license">License&lt;/h2>
 &lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Slides</title><link>https://kuto5046.github.io/portfolio/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Google Research Football with Manchester City F.C.</title><link>https://kuto5046.github.io/portfolio/project/football/</link><pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/football/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
+&lt;p>サッカーエージェントを育てるシミュレーション(強化学習)コンペ&lt;/p>
+&lt;h3 id="結果">結果&lt;/h3>
+&lt;p>59th/1138&lt;/p>
+&lt;!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
+&lt;h3 id="notebook">Notebook&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.kaggle.com/kuto0633/gfootball-rainbow-dqn-pfrl" target="_blank" rel="noopener">GFootball: Rainbow-DQN [PFRL]&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/kuto0633/gfootball-modified-rainbow-dqn-pfrl" target="_blank" rel="noopener">GFootball: Modified-Rainbow-DQN [PFRL]&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/kuto0633/kutopon-s-pretrained-seed-rl-model-with-1625m" target="_blank" rel="noopener">kutopon&amp;rsquo;s pretrained SEED-RL model with 1625M&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="discussion">Discussion&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/187657" target="_blank" rel="noopener">[summary] The paper of Google Research Football&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/191594" target="_blank" rel="noopener">Be careful to set rewards when you create environment&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/190967" target="_blank" rel="noopener">Validation Episode Failed.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/188224" target="_blank" rel="noopener">Is self-play learning(RL) effective approach?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/200595" target="_blank" rel="noopener">Is a submission which during validation episode invalid?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/200945" target="_blank" rel="noopener">SEED RL solution [final score 1170]&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Slides</title><link>https://kuto5046.github.io/portfolio/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
@@ -220,26 +235,7 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://kuto5046.github.io/portfolio/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/admin/config.yml</guid><description/></item><item><title>Google Research Football with Manchester City F.C.</title><link>https://kuto5046.github.io/portfolio/project/football/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/football/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
-&lt;p>サッカーエージェントを育てるシミュレーション(強化学習)コンペ&lt;/p>
-&lt;h3 id="結果">結果&lt;/h3>
-&lt;p>59th/1138&lt;/p>
-&lt;!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
-&lt;h3 id="notebook">Notebook&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://www.kaggle.com/kuto0633/gfootball-rainbow-dqn-pfrl" target="_blank" rel="noopener">GFootball: Rainbow-DQN [PFRL]&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.kaggle.com/kuto0633/gfootball-modified-rainbow-dqn-pfrl" target="_blank" rel="noopener">GFootball: Modified-Rainbow-DQN [PFRL]&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.kaggle.com/kuto0633/kutopon-s-pretrained-seed-rl-model-with-1625m" target="_blank" rel="noopener">kutopon&amp;rsquo;s pretrained SEED-RL model with 1625M&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="discussion">Discussion&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/187657" target="_blank" rel="noopener">[summary] The paper of Google Research Football&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/191594" target="_blank" rel="noopener">Be careful to set rewards when you create environment&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/190967" target="_blank" rel="noopener">Validation Episode Failed.&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/188224" target="_blank" rel="noopener">Is self-play learning(RL) effective approach?&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/200595" target="_blank" rel="noopener">Is a submission which during validation episode invalid?&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/200945" target="_blank" rel="noopener">SEED RL solution [final score 1170]&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Google Smartphone Decimeter Challenge</title><link>https://kuto5046.github.io/portfolio/project/outdoor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/outdoor/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://kuto5046.github.io/portfolio/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/admin/config.yml</guid><description/></item><item><title>Google Smartphone Decimeter Challenge</title><link>https://kuto5046.github.io/portfolio/project/outdoor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/outdoor/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
 &lt;p>商業施設での屋内歩行者の位置推定コンペ。&lt;/p>
 &lt;h3 id="結果">結果&lt;/h3>
 &lt;p>18th/810 (silver medal)&lt;/p>
