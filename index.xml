@@ -96,31 +96,7 @@ The template is mobile first with a responsive design to ensure that your site l
 &lt;li>&lt;strong>&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
 &lt;/ul>
 &lt;h2 id="inspiration">Inspiration&lt;/h2>
-&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
-&lt;h2 id="features">Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
-&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
-&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
-&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
-&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
-&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
-&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
-&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
-&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
-&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
-&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
-&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
-&lt;/ul>
-&lt;h2 id="themes">Themes&lt;/h2>
-&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
-&lt;h2 id="license">License&lt;/h2>
-&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Google Research Football with Manchester City F.C.</title><link>https://kuto5046.github.io/portfolio/project/football/</link><pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/football/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
+&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p></description></item><item><title>Google Research Football with Manchester City F.C.</title><link>https://kuto5046.github.io/portfolio/project/football/</link><pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/project/football/</guid><description>&lt;h3 id="コンペ概要">コンペ概要&lt;/h3>
 &lt;p>サッカーエージェントを育てるシミュレーション(強化学習)コンペ&lt;/p>
 &lt;h3 id="結果">結果&lt;/h3>
 &lt;p>59th/1138 🥉(team)&lt;/p>
@@ -139,7 +115,7 @@ The template is mobile first with a responsive design to ensure that your site l
 &lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/188224" target="_blank" rel="noopener">Is self-play learning(RL) effective approach?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/200595" target="_blank" rel="noopener">Is a submission which during validation episode invalid?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.kaggle.com/c/google-football/discussion/200945" target="_blank" rel="noopener">SEED RL solution [final score 1170]&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>A methodology of steel microstructure recognition using SEM images by machine learning based on textural analysis</title><link>https://kuto5046.github.io/portfolio/publication/journal-article/</link><pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/publication/journal-article/</guid><description/></item><item><title>Slides</title><link>https://kuto5046.github.io/portfolio/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;/ul></description></item><item><title>A methodology of steel microstructure recognition using SEM images by machine learning based on textural analysis</title><link>https://kuto5046.github.io/portfolio/publication/journal-article/</link><pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/publication/journal-article/</guid><description/></item><item><title>A study on the acicular ferrite formation in steel weld metals for gas metal arc welding</title><link>https://kuto5046.github.io/portfolio/publication/article/</link><pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/publication/article/</guid><description/></item><item><title>Slides</title><link>https://kuto5046.github.io/portfolio/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://kuto5046.github.io/portfolio/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
